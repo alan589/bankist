@@ -11,15 +11,14 @@ A aplicação consiste em um simulador de uma conta bancária
 
 ### Links
 
-- Project link: (https://alan589.github.io/bankist/) user: js PIN: 1111
+- Project link: (https://alan589.github.io/bankist/) Fake "log in" with user `js` and PIN `1111`
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+- HTML
+- CSS
 - JavaScript
 
 ## Author
