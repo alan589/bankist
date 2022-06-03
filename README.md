@@ -11,7 +11,7 @@ A aplicação consiste em um simulador de uma conta bancária
 
 ### Links
 
-- Project link: (https://alan589.github.io/bankist/)
+- Project link: (https://alan589.github.io/bankist/) user: js PIN: 1111
 
 ## My process
 
