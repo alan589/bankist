@@ -21,6 +21,12 @@ A aplicação consiste em um simulador de uma conta bancária
 - CSS
 - JavaScript
 
+### What I learned
+
+- Dates
+- Timers
+- Intl API
+
 ## Author
 
 - Linkedin - [Alan cavalcante](https://www.linkedin.com/in/alan-cavalcante-382051206/)
